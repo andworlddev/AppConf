@@ -1,0 +1,7 @@
+{
+	"version_code": 100,
+	"version_name": "1.0",
+	"market": "google play",
+	"update_title": "New version 1.0 found!",
+	"update_detail_list": ["fix bugs", "dev new feature"]
+}
